@@ -3,6 +3,7 @@
  Some description
 hiii
 https://thatjsdude.com/interview/dom.html****
+https://chat.openai.com/share/c36a6f68-dab8-487f-87a7-1a09df50276b
 Sure, I'd be happy to help you understand the topics covered in this paper so that you can perform well on the test. Here's a breakdown of the key points:
 
 Introduction:
